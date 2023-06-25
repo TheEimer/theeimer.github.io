@@ -25,6 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 I am a researcher at the Leibniz University of Hannover currently working towards my PhD. I focus on making Reinforcement Learning agents more general by dynamically adapting their behavior.
-I completed my master’s degree in computer science in 2019 at the University of Freiburg under the supervision of Prof. Dr. Frank Hutter. Since 2020, I've been a PhD candidate in Hannover supervised by Prof. Dr. Marius Lindauer. I have previously interned at MetaAI in London.
+
+I completed my master’s degree in computer science in 2019 at the University of Freiburg under the supervision of Prof. Dr. Frank Hutter. Since 2020, I've been a PhD candidate in Hannover supervised by Prof. Dr. Marius Lindauer. I have interned at MetaAI in London in 2022/23.
 
 
