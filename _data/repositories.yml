@@ -1,9 +1,0 @@
-github_users:
-  - theeimer
-  - automl
-
-github_repos:
-  - automl/DACBench
-  - automl/CARL
-  - automl/SPaCE
-  - facebookresearch/how-to-autorl
