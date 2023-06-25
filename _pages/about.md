@@ -26,6 +26,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a researcher at the Leibniz University of Hannover currently working towards my PhD. I focus on making Reinforcement Learning agents more general by dynamically adapting their behavior.
 
-I completed my master’s degree in computer science in 2019 at the University of Freiburg under the supervision of Prof. Dr. Frank Hutter. Since 2020, I've been a PhD candidate in Hannover supervised by Prof. Dr. Marius Lindauer. I have interned at MetaAI in London in 2022/23.
+I completed my master’s degree in computer science in 2019 at the University of Freiburg under the supervision of Prof. Dr. Frank Hutter. Since 2020, I've been a PhD candidate in Hannover supervised by Prof. Dr. Marius Lindauer. I have interned at MetaAI in London in 2022/23. If you ever want to have a chat (about research or otherwise), feel free to book a slot in my [office hour](https://calendar.app.google/tMdop6qyU59B1XF5A)!
 
 
