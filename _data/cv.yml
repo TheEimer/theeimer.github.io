@@ -8,6 +8,38 @@
     - name: Languages
       value: English, German
 
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Automated Machine Learning and Reinforcement Learning
+      items:
+        - "<a href=\"https://theeimer.github.io/assets/pdf/paper/jair_22_autorl_survey.pdf\">Automated Reinforcement Learning (AutoRL): A Survey and Open Problems</a>"
+        - "<a href=\"https://theeimer.github.io/assets/pdf/paper/icml_23_hpo_in_rl.pdf\">Hyperparameters in Reinforcement Learning and How To Tune Them</a>"
+    - title: Generalization in Reinforcement Learning
+      items:
+        - "<a href=\"https://theeimer.github.io/assets/pdf/paper/tmlr_23_contextualize_me.pdf\">Contextualize Me - The Case for Context in Reinforcement Learning</a>"
+        - "<a href=\"https://theeimer.github.io/assets/pdf/paper/icml_21_space.pdf\">Self-Paced Context Evaluation for Contextual Reinforcement Learning</a>"
+    - title: Dynamic Algorithm Configuration
+      items:
+        - "<a href=\"https://theeimer.github.io/assets/pdf/paper/jair_22_dac.pdf\">Automated Dynamic Algorithm Configuration</a>"
+        - "<a href=\"https://theeimer.github.io/assets/pdf/paper/ijcai_21_dacbench.pdf\">DACBench: A Benchmark Library for Dynamic Algorithm Configuration</a>"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: Meta AI London
+      year: 09.2022-02.2023
+      description:
+        - Generalization through Natural Language in Reinforcement Learning
+        - Hosted by Roberta Raileanu
+    - title: Scientific Researcher
+      institution: Insititute of AI, Leibniz University Hannover
+      year: 2020-now
+      description:
+        - Researching Dynamic Configuration of RL algorithms for better performance and generalization
+        - Supervised by Prof. Dr. Marius Lindauer
+
 - title: Education
   type: time_table
   contents:
@@ -26,28 +58,54 @@
         - Thesis "On Thue Numbers" (Grade 1.0 - best possible grade)
         - Supervised by Dr. Frank Heitmann
 
-- title: Experience
+- title: Community Involvement
   type: time_table
   contents:
-    - title: Research Intern
-      institution: Meta AI London
-      year: 09.2022-02.2023
+    - title: Computer Science Diversity Committee
+      institution: Leibniz University Hannover
+      year: since 2023
       description:
-        - Generalization through Natural Language in Reinforcement Learning
-        - Hosted by Roberta Raileanu
-    - title: Scientific Researcher
-      institution: Insititute of AI, Leibniz University Hannover
-      year: 2020-now
-      description:
-        - Researching Dynamic Configuration of RL algorithms for better performance and generalization
-        - Supervised by Prof. Dr. Marius Lindauer
+        - Deputy Member
+        - Promoting diversity in the Computer Science faculty
 
-- title: Academic Interests
-  type: list
+    - title: DAC4AutoML Competition
+      institution: AutoML Conf
+      year: 2022
+      description:
+        - Lead Organizer
+        - Competition on Dynamic Configuration for Supervised Learning and Reinforcement Learning
+
+    - title: AutoML Conf
+      year: 2022
+      description:
+        - Diversity Chair  
+
+- title: Selected Talks & Presentations
+  type: time_table
   contents:
-    - Automated Reinforcement Learning
-    - Generalization in Reinforcement Learning
-    - Dynamic Algorithm Configuration
+    - title: Challenges for Hyperparameter Optimization in Reinforcement Learning
+      institution: AutoML Seminar Series
+      year: 06.2023
+      description:
+        - Invited Talk
+        - On understanding AutoRL through an AutoML lens
+        - "<a href=\"https://theeimer.github.io/assets/pdf/paper/assets/pdf/slides/challenges_in_HPO_for_RL_automl_seminar.pdf\">Slides</a>"
+
+   - title: Dynamic Algorithm Configuration
+      institution: AI Grid Science Slam
+      year: 05.2023
+      description:
+        - Invited Contribution
+        - Science Communication Format for general audiences - 2nd place in audience voting
+        - "<a href=\"https://theeimer.github.io/assets/pdf/slides/dac_science_slam.pdf\">Slides</a>"
+
+  - title: Dynamic Algorithm Configuration for AutoML
+      institution: KompAKI Seminar Series
+      year: 07.2022
+      description:
+        - Invited Talk
+        - DAC as an extension of common AutoML paradigms
+        - "<a href=\"https://theeimer.github.io/assets/pdf/slides/dac_kompaki_seminar.pdf\">Slides</a>"
 
 - title: Other Interests
   type: list
