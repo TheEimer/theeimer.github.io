@@ -1,3 +1,19 @@
 "Biedenkapp":
   - firstname: ["André", "A."]
     url: https://andrebiedenkapp.github.io/
+
+"Hutter":
+  - firstname: ["Frank", "F."]
+    url: https://ml.informatik.uni-freiburg.de/profile/hutter
+
+"Lindauer":
+  - firstname: ["Marius", "M."]
+    url: https://www.ai.uni-hannover.de/en/institut/team/lindauer
+
+"Benjamins":
+  - firstname: ["Carolin", "C."]
+    url: https://www.ai.uni-hannover.de/en/institut/team/benjamins
+
+"Schubert":
+  - firstname: ["Frederik", "F."]
+    url: http://www.tnt.uni-hannover.de/en/staff/schubert/
