@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /me/
-subtitle: Researcher at the [Insitutite of AI Hannover](https://www.ai.uni-hannover.de/de/institut/team/eimer)
+subtitle: Researcher at the  <a href='https://www.ai.uni-hannover.de/de/institut/team/eimer/'>Insitutite of AI Hannover</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Welfengarten 1</p>
