@@ -80,7 +80,7 @@
       description:
         - Diversity Chair  
 
-- title: Selected Talks & Presentations
+- title: Selected Talks and Presentations
   type: time_table
   contents:
     - title: Challenges for Hyperparameter Optimization in Reinforcement Learning
@@ -99,7 +99,7 @@
         - Science Communication Format for general audiences - 2nd place in audience voting
         - "<a href=\"https://theeimer.github.io/assets/pdf/slides/dac_science_slam.pdf\">Slides</a>"
 
-  - title: Dynamic Algorithm Configuration for AutoML
+    - title: Dynamic Algorithm Configuration for AutoML
       institution: KompAKI Seminar Series
       year: 07.2022
       description:
