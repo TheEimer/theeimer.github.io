@@ -7,7 +7,7 @@ subtitle: Researcher at the  <a href='https://www.ai.uni-hannover.de/de/institut
 profile:
   align: right
   image: pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Welfengarten 1</p>
     <p>30167 Hannover, DE</p>
