@@ -15,16 +15,16 @@
       institution: Albert-Ludwig University Freiburg
       year: 2016-2019
       description:
-        - Final Grade: 1.7
-        - Thesis: Improved Meta-Learning for Dynamic Algorithm Configuration (Grade 1.0 - best possible grade)
-        - Supervisor: Prof. Dr. Frank Hutter
+        - Final Grade 1.7
+        - Thesis "Improved Meta-Learning for Dynamic Algorithm Configuration" (Grade 1.0 - best possible grade)
+        - Supervised by Prof. Dr. Frank Hutter
     - title: BSc. Computer Science
       institution: University of Hamburg
       year: 2013-2016
       description:
-        - Final Grade: 1.5
-        - Thesis: On Thue Numbers (Grade 1.0 - best possible grade)
-        - Supervisor: Dr. Frank Heitmann
+        - Final Grade 1.5
+        - Thesis "On Thue Numbers" (Grade 1.0 - best possible grade)
+        - Supervised by Dr. Frank Heitmann
 
 - title: Experience
   type: time_table
@@ -34,13 +34,13 @@
       year: 09.2022-02.2023
       description:
         - Generalization through Natural Language in Reinforcement Learning
-        - Host: Roberta Raileanu
+        - Hosted by Roberta Raileanu
     - title: Scientific Researcher
       institution: Insititute of AI, Leibniz University Hannover
       year: 2020-now
       description:
         - Researching Dynamic Configuration of RL algorithms for better performance and generalization
-        - Supervisor: Prof. Dr. Marius Lindauer
+        - Supervised by Prof. Dr. Marius Lindauer
 
 - title: Academic Interests
   type: list
