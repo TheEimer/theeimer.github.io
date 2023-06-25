@@ -1,12 +1,18 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Information on the courses I gave.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+For all current course information, please refer to our [institute page](https://www.ai.uni-hannover.de/de/lehre/lehrveranstaltungen).
 
-Organize your courses by years, topics, or universities, however you like!
+I have taught or assisted the following courses during my PhD in Hannover:
+
+    Social Responsibility in Machine Learning: Summer 2021, 2022, 2023
+    Reinforcement Learning: Fall 2020, 2021
+    Automated Machine Learning Seminar: Summer 2020
+
+We are currently reworking the practical exercises for our RL course, stay tuned for the link!
