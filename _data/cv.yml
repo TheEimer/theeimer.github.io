@@ -91,7 +91,7 @@
         - On understanding AutoRL through an AutoML lens
         - "<a href=\"https://theeimer.github.io/assets/pdf/paper/assets/pdf/slides/challenges_in_HPO_for_RL_automl_seminar.pdf\">Slides</a>"
 
-   - title: Dynamic Algorithm Configuration
+    - title: Dynamic Algorithm Configuration
       institution: AI Grid Science Slam
       year: 05.2023
       description:
