@@ -124,7 +124,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Blog # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: my personal blog
+blog_description: Blog posts I've written and contributed to.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -134,6 +134,10 @@ pagination:
 related_blog_posts:
   enabled: true
   max_related: 5
+
+external_sources:
+  - name: automl.org
+    rss_url: https://www.automl.org/author/eimer/feed
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
