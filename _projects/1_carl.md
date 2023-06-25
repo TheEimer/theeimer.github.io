@@ -1,13 +1,12 @@
 ---
 layout: page
-title: CARL - Understanding Generalization via Interpretable Context Features
-description: a project with a background image
+title: CARL
+description: CARL is a benchmark for contextual RL (cRL). In cRL, we aim to generalize over different contexts. In CARL we saw that if we vary the context, the learning becomes more difficult, and making the context explicit can facilitate learning.
+redirect: https://github.com/automl/CARL
 img: assets/img/carl.png
 importance: 1
-category: work
+category: 
 ---
-
-CARL is a benchmark library - more details to come
 
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
