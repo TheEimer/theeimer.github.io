@@ -17,3 +17,23 @@
 "Schubert":
   - firstname: ["Frederik", "F."]
     url: http://www.tnt.uni-hannover.de/en/staff/schubert/
+
+"Mohan":
+  - firstname: ["Aditya", "A."]
+    url: https://www.ai.uni-hannover.de/en/institut/team/mohan
+
+"Raileanu":
+  - firstname: ["Roberta", "R."]
+    url: https://rraileanu.github.io/
+
+"Adriaensen":
+  - firstname: ["Steven", "S."]
+    url: https://ml.informatik.uni-freiburg.de/profile/adriaensen/
+
+"Rajan":
+  - firstname: ["Raghu", "R."]
+    url: https://ml.informatik.uni-freiburg.de/profile/rajan/
+
+"Rosenhahn":
+  - firstname: ["Bodo", "B."]
+    url: http://www.tnt.uni-hannover.de/en/staff/rosenhahn/
