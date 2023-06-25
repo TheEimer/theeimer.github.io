@@ -8,7 +8,7 @@
     - name: Languages
       value: English, German
 
-- title: Research Interests
+- title: Research Interests & Selected Associated Publications
   type: nested_list
   contents:
     - title: Automated Machine Learning and Reinforcement Learning
@@ -62,23 +62,21 @@
   type: time_table
   contents:
     - title: Computer Science Diversity Committee
-      institution: Leibniz University Hannover
+      institution: Deputy Member
       year: since 2023
       description:
-        - Deputy Member
         - Promoting diversity in the Computer Science faculty
 
     - title: DAC4AutoML Competition
-      institution: AutoML Conf
+      institution: Lead Organizer
       year: 2022
       description:
-        - Lead Organizer
+        - Part of AutoML Conf 2022
         - Competition on Dynamic Configuration for Supervised Learning and Reinforcement Learning
 
     - title: AutoML Conf
       year: 2022
-      description:
-        - Diversity Chair  
+      institution: Diversity Chair  
 
 - title: Selected Talks and Presentations
   type: time_table
@@ -87,29 +85,19 @@
       institution: AutoML Seminar Series
       year: 06.2023
       description:
-        - Invited Talk
-        - On understanding AutoRL through an AutoML lens
-        - "<a href=\"https://theeimer.github.io/assets/pdf/paper/assets/pdf/slides/challenges_in_HPO_for_RL_automl_seminar.pdf\">Slides</a>"
+        - On understanding AutoRL through an AutoML Lens
+        - Invited Talk - "<a href=\"https://theeimer.github.io/assets/pdf/paper/assets/pdf/slides/challenges_in_HPO_for_RL_automl_seminar.pdf\">Slides</a>"
 
     - title: Dynamic Algorithm Configuration
       institution: AI Grid Science Slam
       year: 05.2023
       description:
-        - Invited Contribution
         - Science Communication Format for general audiences - 2nd place in audience voting
-        - "<a href=\"https://theeimer.github.io/assets/pdf/slides/dac_science_slam.pdf\">Slides</a>"
+        - Invited Contribution - "<a href=\"https://theeimer.github.io/assets/pdf/slides/dac_science_slam.pdf\">Slides</a>"
 
     - title: Dynamic Algorithm Configuration for AutoML
       institution: KompAKI Seminar Series
       year: 07.2022
       description:
-        - Invited Talk
         - DAC as an extension of common AutoML paradigms
-        - "<a href=\"https://theeimer.github.io/assets/pdf/slides/dac_kompaki_seminar.pdf\">Slides</a>"
-
-- title: Other Interests
-  type: list
-  contents:
-    - Music (esp. classical singing & opera)
-    - Board games
-    - The outdoors (hiking, climbing, skiing, ...)
+        - Invited Talk - "<a href=\"https://theeimer.github.io/assets/pdf/slides/dac_kompaki_seminar.pdf\">Slides</a>"

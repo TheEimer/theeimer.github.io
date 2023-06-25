@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Hi there!
-permalink: /me/
+permalink: 
 subtitle: Researcher at the  <a href='https://www.ai.uni-hannover.de/de/institut/team/eimer/'>Insitutite of AI Hannover</a>
 
 profile:
