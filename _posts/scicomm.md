@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: post
 title: Trying Science Communication During Your PhD Is A Great Idea!
 description: SciComm can be great, even at a PhD level. Here's why.
 date: 2023-10-04
