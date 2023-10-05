@@ -21,13 +21,6 @@ authors:
     affiliations:
       name: Leibniz University Hannover
 
-bibliography: 2022-06-01-temporl.bib
-
-py-ver: 2022.09.1
-
-py-env:
- - numpy
-
 toc:
   - name: Why Should RL Agents be More Proactive?
   - name: How to Train Proactive RL Agents
