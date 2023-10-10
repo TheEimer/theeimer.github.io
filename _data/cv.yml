@@ -81,6 +81,13 @@
 - title: Selected Talks and Presentations
   type: time_table
   contents:
+  - title: Automating Reinforcement Learning
+      institution: Future of AI Summit 
+      year: 09.2023
+      description:
+        - Invited by the Alexander von Humboldt foundation as one of 19 young researchers
+        - Poster presentation of my vision for AutoRL
+
     - title: Challenges for Hyperparameter Optimization in Reinforcement Learning
       institution: AutoML Seminar Series
       year: 06.2023
