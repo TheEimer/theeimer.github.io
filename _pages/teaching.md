@@ -10,6 +10,7 @@ For all current course information, please refer to our [institute page](https:/
 
 I have taught or assisted the following courses during my PhD in Hannover:
 
+    Advanced Topics in Deep Reinforcement Learning: Summer 2024
     Social Responsibility in Machine Learning: Summer 2021, 2022, 2023
     Reinforcement Learning: Fall 2020, 2021, 2023 (exercise design)
     Automated Machine Learning Seminar: Summer 2020
