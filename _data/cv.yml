@@ -33,7 +33,7 @@
       description:
         - Generalization through Natural Language in Reinforcement Learning
         - Hosted by Roberta Raileanu
-    - title: Scientific Researcher
+    - title: Scientific Researcher / Team Lead Reinforcement Learning
       institution: Insititute of AI, Leibniz University Hannover
       year: 2020-now
       description:
@@ -61,6 +61,12 @@
 - title: Community Involvement
   type: time_table
   contents:
+    - title: AutoRL Workshop @ ICML
+      institution: Organizer
+      year: 2024
+      description:
+        - Organizing the first AutoRL Workshop at ICML 2024
+        
     - title: Computer Science Diversity Committee
       institution: Deputy Member
       year: since 2023
@@ -75,7 +81,7 @@
         - Competition on Dynamic Configuration for Supervised Learning and Reinforcement Learning
 
     - title: AutoML Conf
-      year: 2022
+      year: 2022,2024
       institution: Diversity Chair  
 
 - title: Selected Talks and Presentations
