@@ -43,6 +43,13 @@
 - title: Education
   type: time_table
   contents:
+    - title: Dr. rer. nat. (PhD)
+      institution: Leibniz University Hannover
+      year: 2020-2024
+      description:
+        - Graded "summa cum laude" (highest distinction)
+        - Thesis "Reinforcing Automated Machine Learning - Briding Reinforcement Learning and AutoML"
+        - Supervised by Prof. Dr. Marius Lindauer
     - title: MSc. Computer Science
       institution: Albert-Ludwig University Freiburg
       year: 2016-2019
@@ -87,6 +94,13 @@
 - title: Selected Talks and Presentations
   type: time_table
   contents:
+    - title: Automating Reinforcement Learning: Hyperparameter & Beyond
+      institution: InstaDeep
+      year: 05.2024
+      description:
+        - Summarizing HPO in RL so far as well as future perspectives
+        - Invited Talk - <a href=https://www.youtube.com/watch?v=XdHJA76iml0>Recording</a>
+        
     - title: Automating Reinforcement Learning
       institution: Future of AI Summit 
       year: 09.2023
