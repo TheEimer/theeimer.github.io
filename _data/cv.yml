@@ -94,7 +94,7 @@
 - title: Selected Talks and Presentations
   type: time_table
   contents:
-    - title: Automating Reinforcement Learning: Hyperparameter & Beyond
+    - title: Automating Reinforcement Learning - Hyperparameter & Beyond
       institution: InstaDeep
       year: 05.2024
       description:
