@@ -68,6 +68,12 @@
 - title: Community Involvement
   type: time_table
   contents:
+    - title: COSEAL
+      institution: General Chair
+      year: Since 2024
+      description:
+        - One of three general chairs that manage the COSEAL network
+  
     - title: AutoRL Workshop @ ICML
       institution: Organizer
       year: 2024
