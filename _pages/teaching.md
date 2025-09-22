@@ -8,11 +8,12 @@ nav_order: 5
 
 For all current course information, please refer to our [institute page](https://www.ai.uni-hannover.de/de/lehre/lehrveranstaltungen).
 
-I have taught or assisted the following courses during my PhD in Hannover:
+I have taught or assisted the following courses in Hannover:
 
+    RL Robotics Project: Fall 2024, 2025
     Advanced Topics in Deep Reinforcement Learning: Summer 2024
     Social Responsibility in Machine Learning: Summer 2021, 2022, 2023
-    Reinforcement Learning: Fall 2020, 2021, 2023 (exercise design)
+    Reinforcement Learning: Fall 2020, 2021, 2023 (exercise design), 2025 (co-lecturer)
     Automated Machine Learning Seminar: Summer 2020
 
 You can find many of our group's course materials on [GitHub](https://github.com/automl-edu).
