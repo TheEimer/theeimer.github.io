@@ -94,7 +94,14 @@
 - title: Selected Talks and Presentations
   type: time_table
   contents:
-    - title: Automating Reinforcement Learning - Hyperparameter & Beyond
+    - title: RL Algorithms Are Misbehaved Black Boxes
+      institution: EWRL 2025
+      year: 09.2024
+      description:
+        - What we see when we view RL algorithms as problem solving tools
+        - Contributed Talk - <a href=https://theeimer.github.io/assets/pdf/slides/ewrl_black_boxes.pdf>Slides</a>
+        
+    - title: Automating Reinforcement Learning - Hyperparameters & Beyond
       institution: InstaDeep
       year: 05.2024
       description:
